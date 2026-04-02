@@ -1,47 +1,47 @@
-# Hello, I'm Christian
+# Christian Cruz — Data Scientist & Cybersecurity Analytics
+
+**Navy Veteran** | **Active Secret Clearance** | Network Engineer @ SAIC (TACNET ISEA)  
+**Starting MS in Data Science** @ National University (March 2026)  
+San Diego, CA | Open to **Data Scientist | Data Analyst | Cybersecurity Analytics** roles
+
 <a href="https://www.linkedin.com/in/christian-cruz-271724132"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+---
 
-I am a current student at Western Governors University with a profound interest in Cybersecurity and a dedication to solving complex problems.
+## About Me
+Transitioning from tactical network engineering and U.S. Navy operations into **data science**. I bring 4+ years of hands-on experience analyzing network traffic, monitoring SIEM logs, and managing vulnerability/patch data from real DoD systems.
 
-## Objective
+## Technical Skills
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, as I am now a student in this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst and ultimately becoming a Cybersecurity Engineer.
+**Data Science & Analytics**  
+- R / RStudio (statistical analysis, data manipulation, visualization)  
+- Exploratory Data Analysis & Visualization  
 
-## Skills
+**Cybersecurity & Network**  
+- Wireshark Packet Analysis  
+- Splunk SIEM  
+- Vulnerability Management (Nessus, Action1)  
+- Tactical Networks (CANES, ADNS, CENTRIXS, ISNS, SCI)  
 
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   <img src="https://img.shields.io/badge/-NMAP-EF3B2D?&style=for-the-badge&logo=NMAP&logoColor=white" />
-
-
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
- 
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
+**Infrastructure & Tools**  
+- Windows Server 2022 / Active Directory  
+- Linux (Kali, Ubuntu, Mint)  
+- AWS VPC / CloudWatch  
+- Python (in progress) • SQL • ITIL v4
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+- CompTIA Linux+ (Active)  
+- CompTIA Security+ (Active)  
+- CompTIA Network+ (Active)  
+- CompTIA A+ (Active)  
+- Axelos PeopleCert ITIL v4 (Active)
 
-## Projects
-- SOC Automation Project
+## Education
+- **Master of Science in Data Science** (In Progress)  
+  National University, San Diego, CA — Expected Start: March 2026  
+- **Bachelor of Science in Cybersecurity Technology**  
+  University of Maryland Global Campus — December 2025
+
+---
+
+**Email**: c.cfin42@gmail.com
