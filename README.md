@@ -1,47 +1,43 @@
-# Christian Cruz — Data Scientist & Cybersecurity Analytics
+# Christian Cruz — Threat Intelligence Analyst | Security Data Scientist (Emerging)
 
-**Navy Veteran** | **Active Secret Clearance** | Network Engineer @ SAIC (TACNET ISEA)  
-**Starting MS in Data Science** @ National University (March 2026)  
-San Diego, CA | Open to **Data Scientist | Data Analyst | Cybersecurity Analytics** roles
+**U.S. Navy Veteran | Active Secret Clearance | Network Engineer @ SAIC (TACNET ISEA)**  
+**MS Data Science (AI Optimization) — National University (In Progress)**
 
-<a href="https://www.linkedin.com/in/christian-cruz-271724132"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-cruz-271724132) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Cchristian42)
 
 ## About Me
-Transitioning from tactical network engineering and U.S. Navy operations into **data science**. I bring 4+ years of hands-on experience analyzing network traffic, monitoring SIEM logs, and managing vulnerability/patch data from real DoD systems.
+
+Cybersecurity professional and U.S. Navy veteran transitioning from network engineering into threat intelligence and security data science. I combine hands-on experience in SIEM log analysis, vulnerability management, and tactical network defense with a growing skill set in Python, statistical modeling, and machine learning — building toward a career applying data science to real-world cyber threats.
+
+## Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Threat Intel Feed Analyzer](https://github.com/Cchristian42/Threat-Intel-Feed-Analyzer) | Automated IOC enrichment pipeline with MITRE ATT&CK mapping and threat visualization | Python, AlienVault OTX, MITRE ATT&CK |
+| [Teardrop Anomaly Analysis](https://github.com/Cchristian42/Teardrop-Anomaly-Analysis) | Simulated IP fragmentation attack analysis with packet-level forensics and statistical visualization | R, Wireshark, dplyr, ggplot2 |
 
 ## Technical Skills
 
-**Data Science & Analytics**  
-- R / RStudio (statistical analysis, data manipulation, visualization)  
-- Exploratory Data Analysis & Visualization  
+**Threat Intelligence & Cybersecurity**  
+SIEM Log Analysis (Splunk) · Vulnerability Management (Nessus, Action1) · Wireshark Packet Analysis · Incident Response · MITRE ATT&CK Framework · Tactical Networks (CANES, ADNS, CENTRIXS, ISNS)
 
-**Cybersecurity & Network**  
-- Wireshark Packet Analysis  
-- Splunk SIEM  
-- Vulnerability Management (Nessus, Action1)  
-- Tactical Networks (CANES, ADNS, CENTRIXS, ISNS, SCI)  
+**Data Science & Analytics**  
+Python · R / RStudio · Pandas · Statistical Modeling · Exploratory Data Analysis · Data Visualization (ggplot2)
 
 **Infrastructure & Tools**  
-- Windows Server 2022 / Active Directory  
-- Linux (Kali, Ubuntu, Mint)  
-- AWS VPC / CloudWatch  
-- Python (in progress) • SQL • ITIL v4
+Windows Server 2022 / Active Directory · Linux (Kali, Ubuntu) · AWS VPC / CloudWatch · SQL · ITIL v4
 
 ## Certifications
-- CompTIA Linux+ (Active)  
-- CompTIA Security+ (Active)  
-- CompTIA Network+ (Active)  
-- CompTIA A+ (Active)  
-- Axelos PeopleCert ITIL v4 (Active)
+
+CompTIA Linux+ · Security+ · Network+ · A+ (All Active)  
+Axelos PeopleCert ITIL v4 (Active)
 
 ## Education
-- **Master of Science in Data Science** (In Progress)  
-  National University, San Diego, CA — Expected Start: March 2026  
-- **Bachelor of Science in Cybersecurity Technology**  
-  University of Maryland Global Campus — December 2025
+
+**MS Data Science (AI Optimization)** — National University *(In Progress)*
+
+**BS Cybersecurity Technology** — University of Maryland Global Campus *(Dec 2025)*
 
 ---
 
-**Email**: c.cfin42@gmail.com
+Let's connect: [LinkedIn](https://www.linkedin.com/in/christian-cruz-271724132)
